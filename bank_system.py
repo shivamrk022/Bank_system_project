@@ -21,6 +21,9 @@ class BankAccount:    #class name
         
 acc1 = BankAccount("Shivam", 1000 )      #objects
 
-acc1.deposit(6000)               #function call 
+acc1.deposit(6000)              #function call 
 acc1.withdraw(3990)             #function call 
 acc1.show_balance()              #function call 
+#seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeededed
+
+
